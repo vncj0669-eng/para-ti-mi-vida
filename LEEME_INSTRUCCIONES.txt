@@ -1,0 +1,22 @@
+¡Hola! Tu página especial ya está lista en cuanto a código.
+
+Para que funcione perfectamente, necesitas agregar tus archivos personales en las carpetas que he preparado:
+
+1. AUDIOS:
+   Ruta: assets/audio/
+   Archivos necesarios:
+   - "perdon.mp3"
+   - "te_amo.mp3"
+
+2. FOTOS:
+   Ruta: assets/images/
+   Sube tus fotos aquí. Si quieres que aparezcan en la página, avísame el nombre de las fotos para actualizar el código.
+
+3. VIDEOS (Nuevo):
+   Ruta: assets/videos/
+   Puedes guardar tus videos aquí para tener todo organizado.
+
+Para ver la página:
+Simplemente abre el archivo "index.html" con tu navegador.
+
+¡Mucha suerte!
